@@ -11,6 +11,10 @@ public interface IFuckedUp
 public class MovableObject : MonoBehaviour, IFuckedUp
 {
 
+    void ChangeIsAStupidHumanThing()
+    {
+
+    }
 	// Use this for initialization
 	void Start () {
 		
